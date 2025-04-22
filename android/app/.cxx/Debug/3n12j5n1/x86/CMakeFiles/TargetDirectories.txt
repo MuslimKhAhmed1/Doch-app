@@ -1,0 +1,2 @@
+E:/NweFiles/Projects/DoCH/doch_app/android/app/.cxx/Debug/3n12j5n1/x86/CMakeFiles/edit_cache.dir
+E:/NweFiles/Projects/DoCH/doch_app/android/app/.cxx/Debug/3n12j5n1/x86/CMakeFiles/rebuild_cache.dir
